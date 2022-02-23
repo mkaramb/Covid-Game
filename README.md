@@ -1,0 +1,1 @@
+Game created in C/C++ that takes user input to move student objects between classrooms and doctors offices to finish their assignments before and stay healhty during the pandemic. This game utilizes OOP concepts such as polymorphism and friendship.
